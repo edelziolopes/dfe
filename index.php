@@ -20,7 +20,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-    
+    jj
     
     <!--Navigator-->
     <?php require_once 'nav.php'; ?>
